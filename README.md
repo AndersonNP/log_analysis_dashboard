@@ -77,9 +77,13 @@ Este dashboard foi criado para facilitar a **visualização de problemas**, **an
 
 ---
 
-## 👨‍💻 Autor
+## 👨‍💻 Equipe
 
-- **Anderson Nascimento** – [@AndersonNP](https://github.com/AndersonNP)
+- **Anderson do Nascimento Pereira** - 2329073
+- **Benjamim Girão de Freitas Neto** - 2418825
+- **Glauber de Sousa Fernandes** - 2417566
+- **Isaias Soares do Rego Fontes** - 2417052
+- **Rodrigo Alves Freitas** - 2419157
 
 ---
 
